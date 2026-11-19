@@ -1,0 +1,15 @@
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/bin/Debug/net10.0/HeapPriorityQueue
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/bin/Debug/net10.0/HeapPriorityQueue.deps.json
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/bin/Debug/net10.0/HeapPriorityQueue.runtimeconfig.json
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/bin/Debug/net10.0/HeapPriorityQueue.dll
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/bin/Debug/net10.0/HeapPriorityQueue.pdb
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.AssemblyInfoInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.AssemblyInfo.cs
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.csproj.CoreCompileInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.sourcelink.json
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.dll
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/refint/HeapPriorityQueue.dll
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.pdb
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/HeapPriorityQueue.genruntimeconfig.cache
+/Users/adianlarsen/Desktop/Data Structures/HeapPriorityQueue/HeapPriorityQueue/obj/Debug/net10.0/ref/HeapPriorityQueue.dll
